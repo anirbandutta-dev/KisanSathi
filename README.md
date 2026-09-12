@@ -4,6 +4,8 @@
   <img src="Images/image1.png" alt="Kisaan Saathi Banner" width="100%" />
 </p>
 
+[Life Demo Video](https://youtu.be/B1-36PqPhfA)
+
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
